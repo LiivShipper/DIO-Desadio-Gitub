@@ -2,7 +2,7 @@
 
 ### GitHub
 
-• Dir -** Faz uma listagem das pastas presentes no computador.
+• Dir - Faz uma listagem das pastas presentes no computador.
 
 **• Cd -** Navegar entre as pastas.
 
